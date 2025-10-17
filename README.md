@@ -38,8 +38,6 @@ draconic-malware-lab/
 │ └─ yara_exemplo.yar
 └─ /images/ # (opcional) prints para evidências
 
-yaml
-Copiar código
 
 ---
 
